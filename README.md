@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  
-![](elliot.gif)
+![control-is-an-illusion](elliot.gif)
